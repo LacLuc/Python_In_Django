@@ -120,3 +120,7 @@ git commit -m "first_PythonDjango"
 git branch -M main
 git remote add origin https://github.com/LacLuc/Python_In_Django.git
 git push -u origin main
+
+Curso de Django 2 Aula - #07: Criando o Layout da aplicação
+https://www.youtube.com/watch?v=LZsjuSBW5YM&list=PLnDvRpP8BnewqnMzRnBT5LeTpld5bMvsj
+==>>  https://www.youtube.com/watch?v=biuNVj1PuGs
